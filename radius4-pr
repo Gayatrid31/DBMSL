@@ -1,4 +1,3 @@
-
 program:-
 
 DECLARE
@@ -36,7 +35,7 @@ Table created.
 
 SQL> set serveroutput on
 
-SQL> @C:\Users\Prajakta\Desktop\PLsql\prog4.sql;
+SQL> @C:\Users\Gayatri\Desktop\PLsql\prog4.sql;
 radius=5, area=78.5
 radius=6, area=113.04
 radius=7, area=153.86
